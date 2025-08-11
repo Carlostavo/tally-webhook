@@ -6,7 +6,7 @@
   },
   "version": "1.0.0",
   "description": "1. Importa este repositorio desde GitHub a Vercel.\r 2. Ve al archivo `api/tally-webhook.js` y verifica que tu SUPABASE_URL y SUPABASE_KEY están correctamente configurados.\r 3. Pulsa Deploy.\r 4. Copia la URL que Vercel te asigna, por ejemplo:",
-  "main": "index.js",
+  "main": "api/webhook.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,3 +14,4 @@
   "author": "",
   "license": "ISC"
 }
+
